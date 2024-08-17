@@ -14,7 +14,7 @@
 
 ## Um pouquinho sobre mim
 
-Prazer me chamo Dorival, tenho 26 anos, sou nascido do Japão, mas tenho nacionalidade brasileira, e moro perto de Campinas/SP e sou apaixonado por Programação, Ciência de Dados e tudo que envolva esse mundo de dados e tambem sou apaixonado por animais! Sou entusiasta do mundo dos dados,e quanto mais eu aprendo, mais eu amo tudo isso!
+Prazer me chamo Dorival, tenho 26 anos, sou nascido do Japão, mas tenho nacionalidade brasileira, e moro em Campinas/SP e sou apaixonado por Programação, Ciência de Dados e tudo que envolva esse mundo de dados e tambem sou apaixonado por animais! Sou entusiasta do mundo dos dados,e quanto mais eu aprendo, mais eu amo tudo isso!
 
 - 🔭 Faço parte da equipe de professores do SENAI
 - 👨‍🎓 Sou formado em Bacharel em Ciencia da Computação pela UNICAMP, e em técnico de Informática pelo COTUCA
