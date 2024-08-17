@@ -39,3 +39,4 @@ Aqui estão algumas idéias para você começar:
 </div>
 
 <br/>
+![Snake animation](https://github.com/Dorivis/Dorivis/blob/output/github-contribution-grid-snake.svg)
