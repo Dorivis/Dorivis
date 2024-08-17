@@ -1,12 +1,9 @@
 <p align="center">
   <a href="https://github.com/Dorivis">
-    <img src="logo.png" height="150" width="175" alt="Unform" />
+    <img src="logo.png" height="250" width="250" alt="Unform" />
   </a>
 </p>
 
-<! --
-
-Aqui estão algumas idéias para você começar:
 
 - 🔭 Atualmente estou trabalhando no SENAI, como professor de TI
 - 🌱 Atualmente estou estudando sobre assuntos diversos de Ciência de Dados
@@ -16,7 +13,6 @@ Aqui estão algumas idéias para você começar:
 - 📫 Como entrar em contato comigo: dorival.jrr@gmail.com
 - ⚡ Curiosidade: Sou nascido no Japão, mas não tenho nacionalidade brasileira
 - 👨‍🎓 Sou formado em Bacharel em Ciencia da Computação pela UNICAMP, e em técnico de Informática pelo COTUCA
--->
 
 
 ## Ferramentas e Tecnologias
@@ -43,6 +39,11 @@ Aqui estão algumas idéias para você começar:
 </div>
 
 <br/>
+
+![Python](https://img.shields.io/badge/Python-avan%C3%A7ado-green)
+![Graduação](https://img.shields.io/badge/Gradua%C3%A7%C3%A3o_Ciencia_da_Computa%C3%A7%C3%A3o-UNICAMP-green)
+![EmpregoAtual](https://img.shields.io/badge/Professor-SENAI-green)
+
 
 
 ![Snake animation](https://github.com/Dorivis/Dorivis/blob/output/github-contribution-grid-snake.svg)
