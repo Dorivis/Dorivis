@@ -30,6 +30,7 @@ Aqui estão algumas idéias para você começar:
           
 </div>
 
+<br/>
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
