@@ -40,5 +40,5 @@ Aqui estão algumas idéias para você começar:
 
 <br/>
 
-https://github.com/Dorivis/Dorivis/blob/output/github-contribution-grid-snake.svg
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/Dorivis/Dorivis/blob/output/github-contribution-grid-snake.svg)
