@@ -14,3 +14,8 @@ Aqui estão algumas idéias para você começar:
 - ⚡ Curiosidade: Sou nascido no Japão, mas não tenho nacionalidade brasileira
 - 👨‍🎓 Sou formado em Bacharel em Ciencia da Computação pela UNICAMP, e em técnico de Informática pelo COTUCA
 -->
+
+
+## Ferramentas e Tecnologias
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
