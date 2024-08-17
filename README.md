@@ -5,6 +5,7 @@
 </p>
 
 
+
 - 🔭 Atualmente estou trabalhando no SENAI, como professor de TI
 - 🌱 Atualmente estou estudando sobre assuntos diversos de Ciência de Dados
 - 👯 Estou procurando colaborar em desenvolver meus alunos e em aprimorar meus conhecimentos em Ciencia de Dados
@@ -32,10 +33,12 @@
 
 <br/>
 
+
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/Dorivis">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorivis&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Dorivis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
 </div>
 
 <br/>
