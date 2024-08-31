@@ -22,7 +22,7 @@ Prazer me chamo Dorival, tenho 26 anos, sou nascido do Japão, mas tenho naciona
 - 👯 Estou procurando colaborar em desenvolver meus alunos e em aprimorar meus conhecimentos em Ciencia de Dados
 - 🤔 Estou procurando algum cargo como Cientista de Dados
 - 💬 Pergunte-me sobre o que tiver duvida.
-- ⚡ Curiosidade: Sou nascido no Japão, mas não tenho nacionalidade brasileira
+- ⚡ Curiosidade: Sou nascido no Japão, mas tenho nacionalidade brasileira
 
 
 ### 🖥️ Tecnologias e Ferramentas: 
