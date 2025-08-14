@@ -1,8 +1,7 @@
-<p align="center">
-  <a href="https://github.com/Dorivis">
-    <img src="logo.png" height="250" width="250" alt="Unform" />
-  </a>
-</p>
+
+<h1 align="center">Dorival Alves da Silva Junior</h1>
+
+
 
 <div dsplay="inline-block">
 
@@ -39,7 +38,11 @@ Prazer me chamo Dorival, tenho 26 anos, sou nascido do Japão, mas tenho naciona
           
 ## Contatos:
 
-📫 Você pode falar comigo pelo [Email](mailto:dorival.jrr@gmail.com) ou pelo [Linkedin](https://www.linkedin.com/in/dorival-alves-804558127/) 
+<div align="center">
+  <a href="https://www.linkedin.com/in/dorival-alves-804558127/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <a href="mailto:dorival.jrr@gmail.com"><img src="https://img.shields.io/static/v1?message=EMAIL&logo=gmail&label=&color=DB0F27&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
+
 </br>
 
 
@@ -59,6 +62,16 @@ Prazer me chamo Dorival, tenho 26 anos, sou nascido do Japão, mas tenho naciona
 ![Graduação](https://img.shields.io/badge/Gradua%C3%A7%C3%A3o_Ciencia_da_Computa%C3%A7%C3%A3o-UNICAMP-green)
 ![EmpregoAtual](https://img.shields.io/badge/Professor-SENAI-green)
 
+<br/>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dorivis&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=dorivis&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-![Snake animation](https://github.com/Dorivis/Dorivis/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
